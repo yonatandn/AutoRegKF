@@ -19,11 +19,8 @@ This project suggests estimating the forecasted states of objects, using a mathe
 
 Demonstration:
 
+https://user-images.githubusercontent.com/74827637/204082441-0f80bb79-2790-4d86-a9c7-234a0af54703.mp4
 
-
-
-
-**The ground truth data was created using Boids model:
 
 
 
