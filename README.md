@@ -18,8 +18,6 @@ Therefore, a detected objects’ trajectory can be modelled as an autoregressive
 This project suggests estimating the forecasted states of objects, using a mathematical time series models and methods, together with a two-layer estimation algorithm: one for the targets’ location and another for the correlation between them.
 
 Demonstration:
-https://user-images.githubusercontent.com/74827637/204082112-2bd8310a-1472-46bf-80c4-4d9de7954333.mp4
-
 
 **The ground truch data was created using Boids model:
 
