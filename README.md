@@ -19,6 +19,10 @@ This project suggests estimating the forecasted states of objects, using a mathe
 
 Demonstration:
 
-**The ground truch data was created using Boids model:
+https://user-images.githubusercontent.com/74827637/204082280-6f17f804-d8df-4932-a3cc-cb46d427a835.mp4
 
+
+
+
+**The ground truth data was created using Boids model:
 https://github.com/ahn1340/Boids.git
