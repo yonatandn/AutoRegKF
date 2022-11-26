@@ -3,6 +3,7 @@ Auto-Regressive model Kalman Filter Estimation:
 
 The field of computer vision and image processing has advanced over the last years both in research and development. A major challenge in this field is real time multi object tracking and trajectory forecasting.
 Real time objects tracking is the process of determining the position of moving objects over time using a camera and other sensors in real time driven data.
+
 Trajectory forecasting refers to the prediction of the described objects’ positions.
 Tracking objects holds the challenge of analyzing a stochastic environment and understanding it comprehensively.
 To sense the environment, one may use  different sensors simultaneously – each yielding its own observations.
