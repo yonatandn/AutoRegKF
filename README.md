@@ -1,2 +1,2 @@
 # AutoRegKF
-Auto-Regressive model Kalman Filter Estiamtion
+Auto-Regressive model Kalman Filter Estimation
