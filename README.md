@@ -19,8 +19,8 @@ This project suggests estimating the forecasted states of objects, using a mathe
 
 Demonstration:
 
-https://user-images.githubusercontent.com/74827637/204092833-14377b43-f11a-4a2b-803c-f5742230edce.mp4
 
+https://github.com/yonatandn/AutoRegKF/assets/74827637/f69220cb-6024-445a-a5ca-1ba82956bcf8
 
 
 
