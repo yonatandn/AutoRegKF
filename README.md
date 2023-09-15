@@ -5,7 +5,7 @@ Full information and analysis can be found in the link:
 [Multiple Target Tracking Revealing Causal Interactions in Complex Systems](https://github.com/yonatandn/AutoRegKF/files/11883807/Multiple_Target_Tracking__Revealing_Causal_Interactions_in_Complex_Systems_.pdf)
 
 
-Auto-Regressive model Kalman Filter Estimation:
+## Auto-Regressive model Kalman Filter Estimation:
 
 The field of computer vision and image processing has advanced over the last years both in research and development. A major challenge in this field is real time multi object tracking and trajectory forecasting.
 Real time objects tracking is the process of determining the position of moving objects over time using a camera and other sensors in real time driven data.
@@ -23,15 +23,9 @@ Therefore, a detected objects’ trajectory can be modelled as an autoregressive
 
 This project suggests estimating the forecasted states of objects, using a mathematical time series models and methods, together with a two-layer estimation algorithm: one for the targets’ location and another for the correlation between them.
 
-Demonstration:
-
+## Demonstration:
 
 https://github.com/yonatandn/AutoRegKF/assets/74827637/f69220cb-6024-445a-a5ca-1ba82956bcf8
 
 
-
-
-
-
-**The ground truth data was created using Boids model:
-https://github.com/ahn1340/Boids.git
+**The ground truth data was created using [Boids model](https://github.com/ahn1340/Boids.git)
